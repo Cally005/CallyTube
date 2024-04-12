@@ -1,0 +1,151 @@
+// @import "../../base.scss";
+
+// .header{
+//     display:flex;
+//     align-items: center;
+//     justify-content: space-between;
+//     padding: 1rem 3rem;
+//     position:sticky;
+//     top: 0;
+//     z-index: 100;
+//     background: $whitesmoke-primary ;
+//     height: 10vh;
+//     width: 100%;
+
+//     &__menu{
+//         display: none;
+
+//         // &:hover{
+            
+//         // }
+//     }
+//     &__logo{
+//         height: 25px;
+//      object-fit: contain;
+//     margin-left: 20px;
+//     }
+
+//     form{
+//         flex: 0.6;
+//         width: 600px;
+//         display: flex;
+//         padding: 0.1rem;
+//         margin: 0.1rem;
+//         border-radius: 20px;
+//         border-color: black;
+//         border: 1, 2px solid ;
+//         background-color: rgb(236, 226, 226);
+
+//         input{
+//             width: 100%;
+//             border: none;
+//             font-weight: 500;
+//             background: transparent;
+//             padding: 0.3rem;
+//             color: $text-color;
+
+//         }
+
+//         &:focus{
+//             outline: none;
+//         }
+
+//         button{
+//             padding:0 1.25rem ;
+//             color: $text-color;
+//             background: transparent;
+//             border: none;
+
+//             &:focus{
+//                 border: none;
+//             }
+//         }
+
+
+//     }
+
+//     &__icons{
+//         flex: 0.15;
+//         display: flex;
+//         justify-content: space-around;
+//         align-items: center;
+//         img{
+//             border-radius: 50%;
+//             width: 40px;
+//             object-fit: contain;
+//             margin-left: 5px;
+//         }
+//     }
+
+// }
+
+// @media (max-width: $breakpoint-small){
+//     .header{
+//         padding: 3rem;
+
+//         form{
+//             flex: 2;
+//         }
+
+//         &__menu{
+//             display: block;
+//         }
+
+//         &__logo{
+//             display: none;
+//         }
+
+//         &__icon > *:not(img){
+//             display: none;
+//         }
+//     }
+// }
+
+// // .header__logo{
+// //     height: 25px;
+// //     object-fit: contain;
+// //     margin-left: 20px;
+// // }
+
+// // .header__input{
+// //     display: flex;
+// //     align-items: center;
+// //     width: 50%;
+// //     height: 40px;
+// //     border-radius: 25px 25px;
+// //     border: 1px solid black;
+// // }
+// // .header__input > input{
+// //     flex:1;
+// //     height: 20px;
+// //     border: none;
+// //     /* border-radius: 20px 20px; */
+// //     padding-left: 20px;
+    
+
+// // }
+
+// // .header__inputButton{
+// //     width:50px !important;
+// //     background-color: aliceblue;
+// //     border-left: 1px solid lightgray;
+// //     color: grey;
+// //     /* border-radius: 20px; */
+// //     margin-right: 5px;
+    
+// // }
+
+// // .header__mic{
+// //     display: flex;
+// //     align-items: center;
+// //     background-color: aliceblue;
+// //     border-radius: 20px 20px;
+// // }
+
+// // .header__icons{
+// //     display: flex;
+// //     align-items: center;
+// // }
+// // .header__icon{
+// //     margin-right: 5px; 
+// // }

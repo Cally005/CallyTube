@@ -1,0 +1,48 @@
+// @import "../../base.scss";
+
+//  .sidebar{
+//     flex: 0.2;
+//     display: flex;
+//     flex-direction: column;
+//     width: 250px;
+//     height: 90vh;
+//     padding-top: 2rem;
+//     transition: transform 0.2s ease-in;
+//     background: $whitesmoke-primary;
+
+// &.open{
+//    transform: translateX(0) ;
+   
+// }
+   
+//  }
+
+//  .sidebar > hr{
+//     height: 1px;
+//     border: 0;
+//     background-color: lightgray;
+//     margin-top: 10px;
+//     margin-bottom: 10px;
+
+//  }
+
+ 
+//  @media (max-width: $breakpoint-medium ){
+//    .sidebar{
+//          width: 90px;
+//    }
+
+   
+//  }
+
+//  @media (max-width: $breakpoint-small ){
+//    .sidebar{
+//          transform: translateX(-100%) ;
+
+//          position: fixed;
+//          z-index: 999;
+//    }
+
+   
+//  }
+
