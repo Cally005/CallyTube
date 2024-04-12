@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/CallyTube/static/css/main.d057a43a.css",
+    "main.js": "/CallyTube/static/js/main.e6df5738.js",
+    "reactPlayerYouTube.js": "/CallyTube/static/js/reactPlayerYouTube.cf09a2ca.chunk.js",
+    "reactPlayerSoundCloud.js": "/CallyTube/static/js/reactPlayerSoundCloud.f4c6d6b2.chunk.js",
+    "reactPlayerVimeo.js": "/CallyTube/static/js/reactPlayerVimeo.641a46b9.chunk.js",
+    "reactPlayerFacebook.js": "/CallyTube/static/js/reactPlayerFacebook.484166cc.chunk.js",
+    "reactPlayerStreamable.js": "/CallyTube/static/js/reactPlayerStreamable.227faabb.chunk.js",
+    "reactPlayerWistia.js": "/CallyTube/static/js/reactPlayerWistia.d1e18adc.chunk.js",
+    "reactPlayerTwitch.js": "/CallyTube/static/js/reactPlayerTwitch.d499adbd.chunk.js",
+    "reactPlayerDailyMotion.js": "/CallyTube/static/js/reactPlayerDailyMotion.ce63d5d8.chunk.js",
+    "reactPlayerMixcloud.js": "/CallyTube/static/js/reactPlayerMixcloud.ad4888d6.chunk.js",
+    "reactPlayerVidyard.js": "/CallyTube/static/js/reactPlayerVidyard.38b9bb25.chunk.js",
+    "reactPlayerKaltura.js": "/CallyTube/static/js/reactPlayerKaltura.a1db2b86.chunk.js",
+    "reactPlayerFilePlayer.js": "/CallyTube/static/js/reactPlayerFilePlayer.c36d2822.chunk.js",
+    "reactPlayerPreview.js": "/CallyTube/static/js/reactPlayerPreview.a70d0412.chunk.js",
+    "index.html": "/CallyTube/index.html",
+    "main.d057a43a.css.map": "/CallyTube/static/css/main.d057a43a.css.map",
+    "main.e6df5738.js.map": "/CallyTube/static/js/main.e6df5738.js.map",
+    "reactPlayerYouTube.cf09a2ca.chunk.js.map": "/CallyTube/static/js/reactPlayerYouTube.cf09a2ca.chunk.js.map",
+    "reactPlayerSoundCloud.f4c6d6b2.chunk.js.map": "/CallyTube/static/js/reactPlayerSoundCloud.f4c6d6b2.chunk.js.map",
+    "reactPlayerVimeo.641a46b9.chunk.js.map": "/CallyTube/static/js/reactPlayerVimeo.641a46b9.chunk.js.map",
+    "reactPlayerFacebook.484166cc.chunk.js.map": "/CallyTube/static/js/reactPlayerFacebook.484166cc.chunk.js.map",
+    "reactPlayerStreamable.227faabb.chunk.js.map": "/CallyTube/static/js/reactPlayerStreamable.227faabb.chunk.js.map",
+    "reactPlayerWistia.d1e18adc.chunk.js.map": "/CallyTube/static/js/reactPlayerWistia.d1e18adc.chunk.js.map",
+    "reactPlayerTwitch.d499adbd.chunk.js.map": "/CallyTube/static/js/reactPlayerTwitch.d499adbd.chunk.js.map",
+    "reactPlayerDailyMotion.ce63d5d8.chunk.js.map": "/CallyTube/static/js/reactPlayerDailyMotion.ce63d5d8.chunk.js.map",
+    "reactPlayerMixcloud.ad4888d6.chunk.js.map": "/CallyTube/static/js/reactPlayerMixcloud.ad4888d6.chunk.js.map",
+    "reactPlayerVidyard.38b9bb25.chunk.js.map": "/CallyTube/static/js/reactPlayerVidyard.38b9bb25.chunk.js.map",
+    "reactPlayerKaltura.a1db2b86.chunk.js.map": "/CallyTube/static/js/reactPlayerKaltura.a1db2b86.chunk.js.map",
+    "reactPlayerFilePlayer.c36d2822.chunk.js.map": "/CallyTube/static/js/reactPlayerFilePlayer.c36d2822.chunk.js.map",
+    "reactPlayerPreview.a70d0412.chunk.js.map": "/CallyTube/static/js/reactPlayerPreview.a70d0412.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d057a43a.css",
+    "static/js/main.e6df5738.js"
+  ]
+}
